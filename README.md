@@ -1,6 +1,6 @@
 # @FsyCorp DDoS Tools | MRVALENTE
 
-![Telegram (скачать)] - https://t.me/FsyCorp
+![Telegram (скрипты)] - https://t.me/FsyCorp
 
 ![License (LICENSE)
 
