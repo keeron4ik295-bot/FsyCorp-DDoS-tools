@@ -1,7 +1,9 @@
 # @FsyCorp DDoS Tools | MRVALENTE
 
 ![Telegram](https://t.me/FsyCorp)
+
 ![License (LICENSE)
+
 ![Python 3.10](https://www.python.org/downloads/release/python-3100/)
 
 > Инструменты для нагрузочного тестирования своих серверов.
